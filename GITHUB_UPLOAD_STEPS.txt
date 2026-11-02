@@ -1,0 +1,11 @@
+GITHUB UPLOAD STEPS
+1. Sign in to GitHub and create a new public repository named student-task-manager-java.
+2. Do not initialise it with a README if you plan to upload this folder's README.
+3. On the repository page choose Add file > Upload files.
+4. Upload the contents of the StudentTaskManager folder (source, README, screenshots, docs, .gitignore).
+5. Enter commit message: Add Student Task Manager Java project and report.
+6. Select Commit changes.
+7. Open the repository and confirm that src/taskmanager, screenshots, docs, and README.md are visible.
+8. For the strongest submission, run the project locally and replace the illustrative screenshots with genuine screenshots of your program.
+
+Do not share your GitHub password or personal access token in chat.
